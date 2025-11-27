@@ -14,6 +14,8 @@ I'm a third-year student at [UAM](https://www.uam.es/uam/informatica-matematicas
   <img src="./images/uam.png" alt="logo UAM" height="150px" witdh="500px" hspace="20">
 </p>
 
+Take a look at [`infomates-apuntes`](https://github.com/infomates-apuntes) for some of my course **notes** and **articles**!
+
 ## ✨ Interests 
  * **Linux** and *operating systems* in general 🐧
  * **Software** development 👾
@@ -51,6 +53,7 @@ I'm a third-year student at [UAM](https://www.uam.es/uam/informatica-matematicas
 </p>
 
 ## 💡 Projects
+* **Operator Theory** [article](https://github.com/infomates-apuntes/ArticuloOperadores) (co-author)
 * **Arch Linux** [dotfiles](https://github.com/jaaviersjz/dotfiles)
 * **Gentoo Linux** reliable `make.conf` for *VMWare*
 * Basic [**shell**]() written in C
