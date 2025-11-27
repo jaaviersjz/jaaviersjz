@@ -51,7 +51,7 @@ I'm a third-year student at [UAM](https://www.uam.es/uam/informatica-matematicas
 </p>
 
 ## 💡 Projects
-* **Arch Linux** [dotfiles]()
+* **Arch Linux** [dotfiles](https://github.com/jaaviersjz/dotfiles)
 * **Gentoo Linux** reliable `make.conf` for *VMWare*
 * Basic [**shell**]() written in C
 * `cmatrix` [custom implementation]() in **C**
