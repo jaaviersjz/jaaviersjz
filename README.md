@@ -60,6 +60,6 @@ I'm a third-year student at [UAM](https://www.uam.es/uam/informatica-matematicas
 
 ## 📈 Github Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaviersjz&show_icons=true&theme=radical&hide_border=true&hide=issues,prs)
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaviersjz&layout=compact&theme=tokyonight&hide_border=true)-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaviersjz&layout=compact&theme=tokyonight&hide_border=true)
 
 <!-- Created with the help of readme.so -->
